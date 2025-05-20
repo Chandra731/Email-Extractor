@@ -1,0 +1,9 @@
+streamlit
+PyMuPDF
+pandas
+email-validator
+pytesseract
+pillow
+python-docx
+requests
+beautifulsoup4
