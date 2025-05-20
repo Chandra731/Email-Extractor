@@ -1,6 +1,6 @@
 # Email Extractor from PDFs and URLs
 
-![Demo Screenshot](assets/demo_screenshot.png)
+![Demo Screenshot](assets/Screenshot.png)
 
 ## Features
 
@@ -20,8 +20,8 @@
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/email-extractor.git
-   cd email-extractor
+   git clone https://github.com/Chandra731/Email-Extractor.git
+   cd Email-Extractor
    ```
 
 2. Install Python dependencies:
