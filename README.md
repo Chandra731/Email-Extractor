@@ -2,6 +2,8 @@
 
 ![Demo Screenshot](assets/Screenshot.png)
 
+Try Live : 'https://email-extractor.streamlit.app/'
+
 ## Features
 
 - Upload multiple PDF, DOCX, and TXT files to extract emails.
